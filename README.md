@@ -1,2 +1,2 @@
 ﻿# clone-spotify
-<img src="https://github.com/marlonrodler/clone-spotify/img/capa.png">
+<img src="https://github.com/marlonrodler/clone-spotify/capa.png">
